@@ -1,5 +1,4 @@
 # Bubble-Shooter
-Synopsis- PSDL Mini Project 2022-23
 
 BUBBLE SHOOTER GAME
 
